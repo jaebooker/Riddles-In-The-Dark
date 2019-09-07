@@ -20,7 +20,7 @@
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mc7-L6-u4Q">
                                 <rect key="frame" x="40" y="809" width="334" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Check Last Night's Riddle Answer"/>
                                 <connections>
                                     <action selector="checkAnswerButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cuY-h5-wOD"/>
                                 </connections>
@@ -67,6 +67,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="checkAnswerButtonOutlet" destination="mc7-L6-u4Q" id="vHV-PA-phC"/>
                         <outlet property="riddleView" destination="HLx-XH-Bxb" id="R7O-PR-wEO"/>
                     </connections>
                 </viewController>

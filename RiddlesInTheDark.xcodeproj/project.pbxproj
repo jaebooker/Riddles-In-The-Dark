@@ -15,6 +15,8 @@
 		0D5FDEE9232333C700EB9CF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D5FDEE7232333C700EB9CF2 /* LaunchScreen.storyboard */; };
 		0D5FDEF4232333C800EB9CF2 /* RiddlesInTheDarkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEF3232333C800EB9CF2 /* RiddlesInTheDarkTests.swift */; };
 		0D5FDEFF232333C800EB9CF2 /* RiddlesInTheDarkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEFE232333C800EB9CF2 /* RiddlesInTheDarkUITests.swift */; };
+		0D5FDF0D23235BB500EB9CF2 /* Riddles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDF0C23235BB500EB9CF2 /* Riddles.swift */; };
+		0D5FDF0F23235DC400EB9CF2 /* Answers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDF0E23235DC400EB9CF2 /* Answers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		0D5FDEFA232333C800EB9CF2 /* RiddlesInTheDarkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RiddlesInTheDarkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D5FDEFE232333C800EB9CF2 /* RiddlesInTheDarkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RiddlesInTheDarkUITests.swift; sourceTree = "<group>"; };
 		0D5FDF00232333C800EB9CF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D5FDF0C23235BB500EB9CF2 /* Riddles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Riddles.swift; sourceTree = "<group>"; };
+		0D5FDF0E23235DC400EB9CF2 /* Answers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				0D5FDEE5232333C700EB9CF2 /* Assets.xcassets */,
 				0D5FDEE7232333C700EB9CF2 /* LaunchScreen.storyboard */,
 				0D5FDEEA232333C700EB9CF2 /* Info.plist */,
+				0D5FDF0C23235BB500EB9CF2 /* Riddles.swift */,
+				0D5FDF0E23235DC400EB9CF2 /* Answers.swift */,
 			);
 			path = RiddlesInTheDark;
 			sourceTree = "<group>";
@@ -262,6 +268,8 @@
 				0D5FDEE1232333BE00EB9CF2 /* ViewController.swift in Sources */,
 				0D5FDEDD232333BE00EB9CF2 /* AppDelegate.swift in Sources */,
 				0D5FDEDF232333BE00EB9CF2 /* SceneDelegate.swift in Sources */,
+				0D5FDF0F23235DC400EB9CF2 /* Answers.swift in Sources */,
+				0D5FDF0D23235BB500EB9CF2 /* Riddles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
