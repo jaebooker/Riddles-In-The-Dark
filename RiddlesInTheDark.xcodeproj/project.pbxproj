@@ -17,6 +17,8 @@
 		0D5FDEFF232333C800EB9CF2 /* RiddlesInTheDarkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEFE232333C800EB9CF2 /* RiddlesInTheDarkUITests.swift */; };
 		0D5FDF0D23235BB500EB9CF2 /* Riddles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDF0C23235BB500EB9CF2 /* Riddles.swift */; };
 		0D5FDF0F23235DC400EB9CF2 /* Answers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDF0E23235DC400EB9CF2 /* Answers.swift */; };
+		0D5FDF1523236BB600EB9CF2 /* cave.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D5FDF1423236BB500EB9CF2 /* cave.jpeg */; };
+		0D5FDF1723236BBC00EB9CF2 /* caves2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D5FDF1623236BBC00EB9CF2 /* caves2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		0D5FDF00232333C800EB9CF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D5FDF0C23235BB500EB9CF2 /* Riddles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Riddles.swift; sourceTree = "<group>"; };
 		0D5FDF0E23235DC400EB9CF2 /* Answers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answers.swift; sourceTree = "<group>"; };
+		0D5FDF1423236BB500EB9CF2 /* cave.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cave.jpeg; sourceTree = "<group>"; };
+		0D5FDF1623236BBC00EB9CF2 /* caves2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = caves2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 		0D5FDEDB232333BE00EB9CF2 /* RiddlesInTheDark */ = {
 			isa = PBXGroup;
 			children = (
+				0D5FDF1423236BB500EB9CF2 /* cave.jpeg */,
+				0D5FDF1623236BBC00EB9CF2 /* caves2.jpg */,
 				0D5FDEDC232333BE00EB9CF2 /* AppDelegate.swift */,
 				0D5FDEDE232333BE00EB9CF2 /* SceneDelegate.swift */,
 				0D5FDEE0232333BE00EB9CF2 /* ViewController.swift */,
@@ -238,6 +244,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D5FDF1523236BB600EB9CF2 /* cave.jpeg in Resources */,
+				0D5FDF1723236BBC00EB9CF2 /* caves2.jpg in Resources */,
 				0D5FDEE9232333C700EB9CF2 /* LaunchScreen.storyboard in Resources */,
 				0D5FDEE6232333C700EB9CF2 /* Assets.xcassets in Resources */,
 				0D5FDEE4232333BE00EB9CF2 /* Main.storyboard in Resources */,
