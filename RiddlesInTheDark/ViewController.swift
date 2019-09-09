@@ -10,19 +10,22 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let formatter : DateFormatter = DateFormatter() //gets today's date
-    var dateString: String = ""
-    var checkAnswerButtonActivated: Bool = false
+    var formatter : DateFormatter = DateFormatter() //gets today's date
+    var dateString: String = "" //to be used to get today's date
+    var checkAnswerButtonActivated: Bool = false //to know when to change button's label
     
     @IBOutlet weak var checkAnswerButtonOutlet: UIButton!
     @IBAction func checkAnswerButton(_ sender: UIButton) {
         if (checkAnswerButtonActivated == false) {
             checkAnswerButtonActivated = true
             if answers[dateString] != nil {
+                //gets answer from last night's riddle
                 riddleView.text = answers[dateString]
             } else {
+                //if there was no riddle last night
                 riddleView.text = "There was no riddle last night."
             }
+            //changes button label
             checkAnswerButtonOutlet.setTitle("Check Tonight's Riddle", for: .normal)
         } else {
             checkAnswerButtonActivated = false
