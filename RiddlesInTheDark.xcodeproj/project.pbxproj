@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D20B4BF2327065900FD5A64 /* riddles.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4BE2327065900FD5A64 /* riddles.jpeg */; };
+		0D20B4C123270DC200FD5A64 /* rsz_riddles_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4C023270DC200FD5A64 /* rsz_riddles_1.jpg */; };
+		0D20B4C323270E5400FD5A64 /* riddles (1).jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4C223270E5200FD5A64 /* riddles (1).jpeg */; };
+		0D20B4C523271A6900FD5A64 /* riddleeighty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4C423271A6800FD5A64 /* riddleeighty.jpeg */; };
+		0D20B4C723271A7A00FD5A64 /* riddleeightyseven.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4C623271A7900FD5A64 /* riddleeightyseven.jpeg */; };
+		0D20B4C923271A8000FD5A64 /* riddlefiftyeight.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4C823271A8000FD5A64 /* riddlefiftyeight.jpeg */; };
+		0D20B4CB23271A8100FD5A64 /* riddlesixty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4CA23271A8000FD5A64 /* riddlesixty.jpeg */; };
+		0D20B4CD2327239F00FD5A64 /* riddleonetwenty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4CC2327239E00FD5A64 /* riddleonetwenty.jpeg */; };
+		0D20B4CF232723E400FD5A64 /* riddleoneeighty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4CE232723E300FD5A64 /* riddleoneeighty.jpeg */; };
+		0D20B4D12327241F00FD5A64 /* riddleonethousand.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4D02327241F00FD5A64 /* riddleonethousand.jpeg */; };
+		0D20B4D32327547700FD5A64 /* riddletwenty.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4D22327547600FD5A64 /* riddletwenty.jpeg */; };
+		0D20B4D5232754E900FD5A64 /* riddletwentynine.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4D4232754E900FD5A64 /* riddletwentynine.jpeg */; };
+		0D20B4D72327556400FD5A64 /* riddleseventysix.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4D62327556300FD5A64 /* riddleseventysix.jpeg */; };
+		0D20B4D92327560B00FD5A64 /* riddlesevensix.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4D82327560B00FD5A64 /* riddlesevensix.jpeg */; };
+		0D20B4DB2327567D00FD5A64 /* riddleonefivetwo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4DA2327567D00FD5A64 /* riddleonefivetwo.jpeg */; };
+		0D20B4DE2327573B00FD5A64 /* riddleonesixseven.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4DD2327573B00FD5A64 /* riddleonesixseven.jpeg */; };
+		0D20B4E023275DFD00FD5A64 /* riddledarklanding.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4DF23275DFD00FD5A64 /* riddledarklanding.jpeg */; };
+		0D20B4E223275E0500FD5A64 /* riddleslanding.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0D20B4E123275E0500FD5A64 /* riddleslanding.jpeg */; };
 		0D5FDEDD232333BE00EB9CF2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEDC232333BE00EB9CF2 /* AppDelegate.swift */; };
 		0D5FDEDF232333BE00EB9CF2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEDE232333BE00EB9CF2 /* SceneDelegate.swift */; };
 		0D5FDEE1232333BE00EB9CF2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5FDEE0232333BE00EB9CF2 /* ViewController.swift */; };
@@ -39,6 +57,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D20B4BE2327065900FD5A64 /* riddles.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddles.jpeg; sourceTree = "<group>"; };
+		0D20B4C023270DC200FD5A64 /* rsz_riddles_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rsz_riddles_1.jpg; sourceTree = "<group>"; };
+		0D20B4C223270E5200FD5A64 /* riddles (1).jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "riddles (1).jpeg"; sourceTree = "<group>"; };
+		0D20B4C423271A6800FD5A64 /* riddleeighty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleeighty.jpeg; sourceTree = "<group>"; };
+		0D20B4C623271A7900FD5A64 /* riddleeightyseven.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleeightyseven.jpeg; sourceTree = "<group>"; };
+		0D20B4C823271A8000FD5A64 /* riddlefiftyeight.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddlefiftyeight.jpeg; sourceTree = "<group>"; };
+		0D20B4CA23271A8000FD5A64 /* riddlesixty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddlesixty.jpeg; sourceTree = "<group>"; };
+		0D20B4CC2327239E00FD5A64 /* riddleonetwenty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleonetwenty.jpeg; sourceTree = "<group>"; };
+		0D20B4CE232723E300FD5A64 /* riddleoneeighty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleoneeighty.jpeg; sourceTree = "<group>"; };
+		0D20B4D02327241F00FD5A64 /* riddleonethousand.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleonethousand.jpeg; sourceTree = "<group>"; };
+		0D20B4D22327547600FD5A64 /* riddletwenty.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddletwenty.jpeg; sourceTree = "<group>"; };
+		0D20B4D4232754E900FD5A64 /* riddletwentynine.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddletwentynine.jpeg; sourceTree = "<group>"; };
+		0D20B4D62327556300FD5A64 /* riddleseventysix.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleseventysix.jpeg; sourceTree = "<group>"; };
+		0D20B4D82327560B00FD5A64 /* riddlesevensix.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddlesevensix.jpeg; sourceTree = "<group>"; };
+		0D20B4DA2327567D00FD5A64 /* riddleonefivetwo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleonefivetwo.jpeg; sourceTree = "<group>"; };
+		0D20B4DD2327573B00FD5A64 /* riddleonesixseven.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleonesixseven.jpeg; sourceTree = "<group>"; };
+		0D20B4DF23275DFD00FD5A64 /* riddledarklanding.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddledarklanding.jpeg; sourceTree = "<group>"; };
+		0D20B4E123275E0500FD5A64 /* riddleslanding.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = riddleslanding.jpeg; sourceTree = "<group>"; };
 		0D5FDED9232333BE00EB9CF2 /* RiddlesInTheDark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RiddlesInTheDark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D5FDEDC232333BE00EB9CF2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0D5FDEDE232333BE00EB9CF2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +120,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D20B4DC2327569C00FD5A64 /* photos */ = {
+			isa = PBXGroup;
+			children = (
+				0D20B4E123275E0500FD5A64 /* riddleslanding.jpeg */,
+				0D20B4DF23275DFD00FD5A64 /* riddledarklanding.jpeg */,
+				0D20B4DD2327573B00FD5A64 /* riddleonesixseven.jpeg */,
+				0D20B4BE2327065900FD5A64 /* riddles.jpeg */,
+				0D20B4D02327241F00FD5A64 /* riddleonethousand.jpeg */,
+				0D20B4CE232723E300FD5A64 /* riddleoneeighty.jpeg */,
+				0D20B4CC2327239E00FD5A64 /* riddleonetwenty.jpeg */,
+				0D20B4C823271A8000FD5A64 /* riddlefiftyeight.jpeg */,
+				0D20B4D82327560B00FD5A64 /* riddlesevensix.jpeg */,
+				0D20B4D4232754E900FD5A64 /* riddletwentynine.jpeg */,
+				0D20B4DA2327567D00FD5A64 /* riddleonefivetwo.jpeg */,
+				0D20B4D62327556300FD5A64 /* riddleseventysix.jpeg */,
+				0D20B4C223270E5200FD5A64 /* riddles (1).jpeg */,
+				0D5FDF1423236BB500EB9CF2 /* cave.jpeg */,
+				0D5FDF1623236BBC00EB9CF2 /* caves2.jpg */,
+				0D20B4C423271A6800FD5A64 /* riddleeighty.jpeg */,
+				0D20B4C623271A7900FD5A64 /* riddleeightyseven.jpeg */,
+				0D20B4D22327547600FD5A64 /* riddletwenty.jpeg */,
+				0D20B4C023270DC200FD5A64 /* rsz_riddles_1.jpg */,
+				0D20B4CA23271A8000FD5A64 /* riddlesixty.jpeg */,
+			);
+			path = photos;
+			sourceTree = "<group>";
+		};
 		0D5FDED0232333BE00EB9CF2 = {
 			isa = PBXGroup;
 			children = (
@@ -107,8 +170,7 @@
 		0D5FDEDB232333BE00EB9CF2 /* RiddlesInTheDark */ = {
 			isa = PBXGroup;
 			children = (
-				0D5FDF1423236BB500EB9CF2 /* cave.jpeg */,
-				0D5FDF1623236BBC00EB9CF2 /* caves2.jpg */,
+				0D20B4DC2327569C00FD5A64 /* photos */,
 				0D5FDEDC232333BE00EB9CF2 /* AppDelegate.swift */,
 				0D5FDEDE232333BE00EB9CF2 /* SceneDelegate.swift */,
 				0D5FDEE0232333BE00EB9CF2 /* ViewController.swift */,
@@ -245,10 +307,28 @@
 			buildActionMask = 2147483647;
 			files = (
 				0D5FDF1523236BB600EB9CF2 /* cave.jpeg in Resources */,
+				0D20B4D72327556400FD5A64 /* riddleseventysix.jpeg in Resources */,
+				0D20B4CB23271A8100FD5A64 /* riddlesixty.jpeg in Resources */,
+				0D20B4DE2327573B00FD5A64 /* riddleonesixseven.jpeg in Resources */,
+				0D20B4E223275E0500FD5A64 /* riddleslanding.jpeg in Resources */,
+				0D20B4D12327241F00FD5A64 /* riddleonethousand.jpeg in Resources */,
 				0D5FDF1723236BBC00EB9CF2 /* caves2.jpg in Resources */,
+				0D20B4D32327547700FD5A64 /* riddletwenty.jpeg in Resources */,
+				0D20B4C123270DC200FD5A64 /* rsz_riddles_1.jpg in Resources */,
 				0D5FDEE9232333C700EB9CF2 /* LaunchScreen.storyboard in Resources */,
+				0D20B4BF2327065900FD5A64 /* riddles.jpeg in Resources */,
+				0D20B4C723271A7A00FD5A64 /* riddleeightyseven.jpeg in Resources */,
+				0D20B4D92327560B00FD5A64 /* riddlesevensix.jpeg in Resources */,
+				0D20B4C523271A6900FD5A64 /* riddleeighty.jpeg in Resources */,
+				0D20B4C323270E5400FD5A64 /* riddles (1).jpeg in Resources */,
+				0D20B4CD2327239F00FD5A64 /* riddleonetwenty.jpeg in Resources */,
+				0D20B4E023275DFD00FD5A64 /* riddledarklanding.jpeg in Resources */,
+				0D20B4C923271A8000FD5A64 /* riddlefiftyeight.jpeg in Resources */,
+				0D20B4DB2327567D00FD5A64 /* riddleonefivetwo.jpeg in Resources */,
 				0D5FDEE6232333C700EB9CF2 /* Assets.xcassets in Resources */,
+				0D20B4CF232723E400FD5A64 /* riddleoneeighty.jpeg in Resources */,
 				0D5FDEE4232333BE00EB9CF2 /* Main.storyboard in Resources */,
+				0D20B4D5232754E900FD5A64 /* riddletwentynine.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
